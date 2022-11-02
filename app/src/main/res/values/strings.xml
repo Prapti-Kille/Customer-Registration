@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Customer Registration</string>
+    <array name="platforms">
+        <item>SAP Analytics Cloud</item>
+        <item>SAP Cloud Platform</item>
+        <item>SAP BW/4HANA</item>
+        <item>SAP S/4HANA</item>
+        <item>SAP BusinessObjects</item>
+    </array>
+</resources>
